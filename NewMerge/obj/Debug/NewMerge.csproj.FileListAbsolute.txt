@@ -1,0 +1,6 @@
+D:\NewMerge\NewMerge\bin\Debug\NewMerge.exe.config
+D:\NewMerge\NewMerge\bin\Debug\NewMerge.exe
+D:\NewMerge\NewMerge\bin\Debug\NewMerge.pdb
+D:\NewMerge\NewMerge\obj\Debug\NewMerge.exe
+D:\NewMerge\NewMerge\obj\Debug\NewMerge.pdb
+D:\NewMerge\NewMerge\obj\Debug\NewMerge.csprojResolveAssemblyReference.cache
